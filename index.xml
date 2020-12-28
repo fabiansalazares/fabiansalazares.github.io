@@ -1,0 +1,16 @@
+
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Miguel Fabián Salazar</title>
+        <link>https://fabiansalazar.es/</link>
+        <description>Recent content on Miguel Fabián Salazar</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-es</language>
+        <lastBuildDate>Sun, 20 Dec 2020 12:12:12 -0500</lastBuildDate>
+    
+        <atom:link href="https://fabiansalazar.es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
