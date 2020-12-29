@@ -3,13 +3,13 @@
     xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Miguel Fabián Salazar</title>
-        <link>https://fabiansalazar.es/posts/</link>
+        <link>/posts/</link>
         <description>Recent content in Posts on Miguel Fabián Salazar</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es-es</language>
         <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
     
-        <atom:link href="https://fabiansalazar.es/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
